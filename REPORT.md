@@ -29,19 +29,17 @@ NRP: 5024251051
 
 4. Melakukan perhitungan dengan bantuan library ctime untuk menentukan perbedaan waktu yang diinputkan dengan waktu sekarang
 
+* Perhitungan umur dalam tahun
+  
 ![perhitungan](./img/umurtahun.png)
 
-<center> Perhitungan umur dalam tahun </center>
-
+* Perhitungan umur dalam bulan 
+  
 ![perhitungan](./img/umurbulan.png)
 
-<center> Perhitungan umur dalam bulan </center>
+* Menentukan hari pada tanggal yang diinputkan
 
 ![perhitungan](./img/haritanggal.png)
-
-<center> Menentukan hari pada tanggal yang diinputkan </center>
-
-<br></br>
 
 5. Mengeluarkan output menggunakan cout dengan format (Umur dalam tahun, Umur dalam bulan, hari pada tanggal tersebut)
 
